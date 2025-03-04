@@ -1,6 +1,6 @@
 # QUANTUM: A High-Agility Autonomous Mobile Robot
 
-**Author:** Almoulla Almaawali (@oulla898)
+**Author:** Almoulla Almaawali 
 **Institution:** Sultan Qaboos University
 
 ## 1. Introduction
