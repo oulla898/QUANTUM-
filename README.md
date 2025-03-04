@@ -32,8 +32,8 @@ Quantum is a highly mobile and responsive robot designed for autonomous navigati
 
 *   **Closed-Loop Speed Control:**  A PID (Proportional-Integral-Derivative) control algorithm, implemented in software, maintains precise motor speeds based on feedback from the Hall effect encoders.  This ensures accurate and consistent movement.
 *   **Autonomous Navigation:** The robot operates autonomously, utilizing sensor data to navigate its environment.
-*   **Escape Strategy:**  The primary operational mode is focused on evasive maneuvers.  When an object is detected within a defined range (450mm), the robot initiates a circular escape maneuver.  This involves setting one motor to a slightly higher speed than the other, causing the robot to turn away from the detected object.
-*  **Edge Avoidance:**  Using input from the IR sensors, the robot detects changes in surface reflectivity.  Upon detection, the robot reverses direction and initiates a circular motion.
+*   **Code Strategy:**  The primary operational mode is focused on evasive maneuvers. 
+*  **Edge Avoidance:**  Using input from the IR sensors, the robot detects changes in surface reflectivity.
 
 ## 6. Parts Overview
 ![Parts Overview](https://github.com/oulla898/QUANTUM-/blob/eec5027533dc6741bd1c5c335dc5ba3137be9a86/quantom%20parts.jpg?raw=true)
